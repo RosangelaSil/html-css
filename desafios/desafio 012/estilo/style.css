@@ -57,6 +57,9 @@ section{
     font-family: var(--fonte3);
     font-size: 3.5vw;
 }
+section > p {
+    padding-bottom: 2em;
+}
 
 section.normal{
     background-color: white;
@@ -71,6 +74,16 @@ section.imagem > p{
     padding: 5px;
     display: inline-block;
     background-color: rgba(12, 12, 12, 0.205);
+}
+
+section#img01{
+    background-image:
+
+}
+
+
+section#img02{
+
 }
 footer{
     background-color: black;
